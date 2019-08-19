@@ -1,0 +1,14 @@
+D:\NetCore projects\HutsApi\bin\Debug\netcoreapp2.2\HutsApi.deps.json
+D:\NetCore projects\HutsApi\bin\Debug\netcoreapp2.2\HutsApi.runtimeconfig.json
+D:\NetCore projects\HutsApi\bin\Debug\netcoreapp2.2\HutsApi.runtimeconfig.dev.json
+D:\NetCore projects\HutsApi\bin\Debug\netcoreapp2.2\HutsApi.dll
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.csprojAssemblyReference.cache
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.csproj.CoreCompileInputs.cache
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.RazorAssemblyInfo.cache
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.RazorAssemblyInfo.cs
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.AssemblyInfoInputs.cache
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.AssemblyInfo.cs
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.RazorTargetAssemblyInfo.cache
+D:\NetCore projects\HutsApi\bin\Debug\netcoreapp2.2\HutsApi.pdb
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.dll
+D:\NetCore projects\HutsApi\obj\Debug\netcoreapp2.2\HutsApi.pdb
